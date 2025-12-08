@@ -1,34 +1,28 @@
 ---
-created: 28-11-2025
-last_updated: 28-11-2025
+created: 28-11-2024
+last_updated: 28-11-2024
 ---
 
-**Q1. What's your background with programming and Rails? Have you built anything before, followed tutorials, or is this completely new territory?**
+**Q1. What's your background with programming and Rails? Have you built things before, followed tutorials, or is this relatively new territory?**
 
-**Answer.** I actually built this app myself after teaching myself Ruby on Rails using ChatGPT in 2023 when ChatGPT came out. I built this app with my brother, who is my co-founder, and we decided to build a SaaS application. This app generates a thousand dollars plus of monthly recurring revenue, but it's sort of vibe coded, and I want to deepen my knowledge because there are massive knowledge gaps in my understanding of Rails and even the fundamentals, not to mention the advanced stuff.
+**Answer.** I started programming back in college, but I didn't really grasp it. So, even though I did courses in my college degree about programming using loops and stuff in C, C++, and all, I wanted to make web apps and didn't know how to do it. JavaScript felt too overwhelming, so I skipped it and pursued a career in a non-technical field until 2023 when ChatGPT came out.
 
-**Q2. This is your private AI tutor whose goal is to make you a top 1% programmer. Where do you want this to take you? What does success look like - scaling this product to much bigger numbers, building more products, getting hired somewhere you admire, or something else entirely?**
+That's when I also learned about Ruby on Rails, and it was everything that I wanted as an entrepreneurial person. The vision of DHH really resonated with me, so I decided to teach myself programming while building a SaaS product - Curated Connections (https://curatedconnections.io/) with my brother. But we realise that we have massive knowledge gaps because we followed an unconventional path to move fast in the product (which is now doing >$1000 MRR).
 
-**Answer.** I definitely want to scale this to bigger numbers. I'm a big fan of DHH, and I really want to deepen my knowledge, go from vibe coding to be an actual Rails expert, somebody who DHH would love to hire at 37signals. Not because I want to work at 37signals, but because I want to be of that caliber, like a senior developer at 37signals. I really believe that I can get there in a very, very short amount of time because I have Claude as my tutor.
+I feel I really want to level up my Rails knowledge and become a top programmer now. Because we did a lot of vibe coding so even basic concepts aren't really clear to me.
 
-**Q3. Tell me a bit about yourself - imagine we just met at a coworking space. What's your background, what drives you, what's your life like outside of building this SaaS?**
+**Q2. This is your private AI tutor whose goal is to make you a top 1% programmer. Where do you want this to take you? A million-dollar product? Getting hired at a company you admire? Something else entirely?**
 
-**Answer.** I'm a really ambitious person. I care about financial independence, so I've wanted to be an entrepreneur for a long time, but just couldn't get into programming because none of the frameworks like JavaScript frameworks really stuck with me. I tried them when I was in college, but I couldn't get myself to understand anything, and it felt even too daunting to begin because there was like a new thing that I need to understand, like 10 things that I need to learn to get going.
+**Answer.** I just want to become the best programmer ever. I realize that I've created a product and I want to take it to new heights. But also, I want to be like DHH or a senior member of 37signals team essentially. I think with AI, I can get there in record time. Being able to grasp this project that they created and opensourced will be a great way to do that. 
 
-It wasn't until ChatGPT came out and AI came out, and that was also the time around which I learned about Ruby on Rails, the amazing framework DHH created as a one-person framework that can do everything. That's when I rekindled my old dream of becoming a software entrepreneur, and I think I wanna make like everybody saying that AI can lead to a billion dollar opportunity, like AI like the world of AI will give you the first billion dollar company created by one or two people. I think I can beat that, so that's where I want to go maybe.
+My goal is to learn not just the basics of Ruby on Rails using this project, but also the advanced stuff that they use in this project, along with the conventions and the softer Rails development skills that you can learn by looking at how DHH and his team are building and thinking about various different approaches to doing something here.
 
-I also feel like understanding, even in the world of AI, having a deep technical expertise is important. AI intelligence is good, but using AI to level up human intelligence is even more powerful. I really really believe that. I don't want to offload my thinking to AI, I want to be in control of it.
+**Q3. Tell me a bit about yourself - imagine we just met at a coworking space. What's your story beyond the programming journey?**
 
----
+**Answer.** I am a software creator who is trying to build a SAAS business to become financially independent. I taught myself Rails using ChatGPT and continue to heavily build with AI today (using tools like Claude Code) while also focusing on levelling myself up in the process.
 
-## Teaching Notes
+**Q4. When you've tried to learn programming concepts before (whether from docs, tutorials, or ChatGPT), what made something actually stick versus go in one ear and out the other?**
 
-**Learning context:** Self-taught via AI assistance, has a working $1k+ MRR SaaS but with foundational gaps. "Vibe coded" the app - it works but understanding is patchy.
+**Answer.** I would say that it's when two things happened. One is that when the learning was happening in service of a feature that I could see or that I wanted to build in a product. Second is when it was able to connect, the lesson was able to connect to the broader, holistic picture of web development and why the concept was so important in the first place. What problem it solved? What people did before this and how it simplified their flows?
 
-**Goal:** DHH-caliber Rails developer. Wants to understand the "why" not just the "how". Aspires to be someone 37signals would hire.
-
-**Motivation style:** Highly ambitious, driven by financial independence and the dream of building a billion-dollar one-person company. Believes deeply in AI-augmented human intelligence.
-
-**Key insight:** Does NOT want to offload thinking to AI. Wants to genuinely understand and be in control. Tutorials should build deep mental models, not just show code to copy.
-
-**What resonates:** Rails as "one-person framework", DHH philosophy, escaping JavaScript framework fatigue, simplicity and elegance.
+I like to basically look at any concept from the lens of what problem did it solve rather than simply how it works or even how I can make it work. It's a third level. And ofcourse, clever light humour sprinkled here and there always helps keep things interesting.
