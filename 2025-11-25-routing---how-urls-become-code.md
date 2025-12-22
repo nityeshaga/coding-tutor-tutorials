@@ -1,5 +1,6 @@
 ---
 concepts: [Routing, RESTful Resources, Nested Resources, URL Helpers, Namespaces, Scopes]
+source_repo: once-campfire
 description: Deep dive into Rails routing - the traffic cop that turns URLs into controller actions. Learn how Campfire maps URLs like /rooms/5/messages to the right code, when to use resources vs resource, how nested routes work, and the subtle but crucial difference between namespace and scope. All with real examples from this codebase.
 understanding_score: null
 prerequisites: [references/tutorials/2025-11-25-mvc---the-architecture-that-powers-every-rails-app.md]

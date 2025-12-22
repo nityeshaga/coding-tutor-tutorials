@@ -1,5 +1,6 @@
 ---
 concepts: [MVC, Request-Response Cycle, Convention Over Configuration]
+source_repo: once-campfire
 description: Your first Rails tutorial exploring MVC architecture by tracing a real request through Campfire - from URL to rendered page. Covers how routes, controllers, models, and views work together, and why Rails organizes code the way it does.
 understanding_score: 7
 prerequisites: []

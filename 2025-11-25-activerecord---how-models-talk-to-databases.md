@@ -1,5 +1,6 @@
 ---
 concepts: [ActiveRecord, ORM, Associations, Migrations, Scopes, Callbacks]
+source_repo: once-campfire
 description: Deep dive into ActiveRecord, Rails' ORM that lets you work with databases using Ruby instead of SQL. Covers what an ORM actually is (and why Next.js doesn't have one), the naming magic, associations, scopes, migrations, and callbacks - all with real Campfire examples.
 understanding_score: null
 prerequisites: [references/tutorials/2025-11-25-mvc---the-architecture-that-powers-every-rails-app.md]

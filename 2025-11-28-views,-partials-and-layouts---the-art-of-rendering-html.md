@@ -1,5 +1,6 @@
 ---
 concepts: [Views, ERB, Partials, Layouts, content_for, View Helpers]
+source_repo: once-campfire
 description: Deep dive into the V in MVC - how Rails turns your data into HTML. Covers ERB templating, the layout system with yield and content_for, partials for reusable UI, view helpers for clean code, and collection rendering. All demonstrated with real Campfire code showing how 37signals structures a production chat app's views.
 understanding_score: null
 last_quizzed: null

@@ -1,5 +1,6 @@
 ---
 concepts: [Turbo Drive, Turbo Frames, Hotwire, SPA-like Navigation, Lazy Loading]
+source_repo: once-campfire
 description: Introduction to Hotwire's Turbo - the technology that lets Rails apps feel like SPAs without writing JavaScript frameworks. Covers how Turbo Drive automatically makes navigation fast, and how Turbo Frames enable surgical updates to parts of a page. All demonstrated through real Campfire examples including message editing, reactions, and the sidebar.
 understanding_score: null
 last_quizzed: null

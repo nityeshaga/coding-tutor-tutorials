@@ -1,5 +1,6 @@
 ---
 concepts: [Controllers, before_action, Strong Parameters, render vs redirect, Concerns]
+source_repo: once-campfire
 description: A deep dive into Rails controllers - the orchestrators that receive requests and coordinate responses. Covers before_action filters (how Campfire ensures you're logged in), strong parameters (protecting against mass assignment attacks), the crucial difference between render and redirect_to, and how concerns let you share controller behavior. Uses real Campfire code throughout.
 understanding_score: null
 last_quizzed: null

@@ -1,5 +1,6 @@
 ---
 concepts: belongs_to,has_many,has_one,through,foreign_key,dependent,class_name
+source_repo: curated_connections_2
 description: A deep dive into how Rails associations work under the hood - from the SQL they generate to the mental models that help you pick the right one. Uses real examples from the Curated Connections codebase to understand belongs_to, has_many, has_one, through associations, and the options that make them flexible.
 understanding_score: null
 last_quizzed: null
